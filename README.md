@@ -2,19 +2,15 @@
  
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320">
 
-I'm a frontend developer with. As a frontend developer, I am constantly improving my skills, even in my sleep.
-I create user-friendly interfaces.
+I am constantly improving my skills, even in my sleep.
+
 When encountering new technologies, I strive to break them down into the smallest details to understand how they work from the inside.
+
 I solve complex problems, getting to the root of the issue. Also confident specialist in React, TypeScript, and JavaScript.
 Experienced to work with RestAPIs and integrating with databases.
-
-The technologies I work with include: React, TypeScript, JavaScript (ES6), HTML, CSS, SASS/SCSS, RestAPI, Redux, RTK, RTK Query, DndKit, React Hook Form, Formik, Zod, Webpack, etc. I am also able to create my own UIKit XD.
-
-Skills: Team leadership, troubleshooting, excellent soft skills (able to find common ground with everyone).
-
 There is one issue - as my previous boss said, "I take a long time to prepare, but I work quickly."
 
-Prior to becoming a developer, I was a geology scientist and have experience working in the USA
+Prior to becoming a developer, I was a geology scientist and have experience working in the USA. So I am throuogh in solving tasks as scientist
 
 ### 💻 Languages and tools:
 
@@ -41,9 +37,9 @@ Prior to becoming a developer, I was a geology scientist and have experience wor
 
 ### 💹 Stats
 <div id="stat" align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilminin1990&theme=transparent" width="842" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=transparent" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=transparent" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilminin1990&theme=prussian" width="842" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=prussian" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=prussian" width="420" alt=""/>
 </div>
 
 ### You can find me there:
