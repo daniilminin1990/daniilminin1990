@@ -1,6 +1,6 @@
 ### Hello, I'm Daniil Minin 👋
  
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNrOTkxMWYwYTBhbWxxeDdnZmxueTF5OWV4dnhxaTNyajA2eTZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="220">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="280">
 
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
 
@@ -23,9 +23,9 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 ### 💹 Stats
 <div id="stat" align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilminin1990&theme=nord" width="842" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=nord" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=nord" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilminin1990&theme=transparent" width="842" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=transparent" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=transparent" width="420" alt=""/>
 </div>
 
 ### You can find me there:
