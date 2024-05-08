@@ -1,14 +1,26 @@
 ### Hello, I'm Daniil Minin 👋
  
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="280">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320">
 
-I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
+I'm a frontend developer with. As a frontend developer, I am constantly improving my skills, even in my sleep.
+I create user-friendly interfaces.
+When encountering new technologies, I strive to break them down into the smallest details to understand how they work from the inside.
+I solve complex problems, getting to the root of the issue. Also confident specialist in React, TypeScript, and JavaScript.
+Experienced to work with RestAPIs and integrating with databases.
+
+The technologies I work with include: React, TypeScript, JavaScript (ES6), HTML, CSS, SASS/SCSS, RestAPI, Redux, RTK, RTK Query, DndKit, React Hook Form, Formik, Zod, Webpack, etc. I am also able to create my own UIKit XD.
+
+Skills: Team leadership, troubleshooting, excellent soft skills (able to find common ground with everyone).
+
+There is one issue - as my previous boss said, "I take a long time to prepare, but I work quickly."
+
+Prior to becoming a developer, I was a geology scientist and have experience working in the USA
 
 ### 💻 Languages and tools:
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EAA401?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -19,6 +31,12 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f1618c?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-8F6EFE?style=flat-square&logo=vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+ <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+ <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+ <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ### 💹 Stats
