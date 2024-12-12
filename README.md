@@ -2,7 +2,16 @@
  
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320">
 
-I am a frontend developer with over 3 years of experience. In my free time, I lead a small community where we discuss development challenges and share insights. I adapt quickly to new tech stacks and prioritize code quality, documentation, and application performance. I stay up-to-date with industry trends and technologies by analyzing modern developments, following tech bloggers, and reading IT articles. Focused on writing clean code and improving application performance.
+I am constantly improving my skills, even in my sleep.
+
+When encountering new technologies, I strive to break them down into the smallest details to understand how they work from the inside.
+
+I solve complex problems, getting to the root of the issue. Also confident specialist in React, TypeScript, and JavaScript.
+Experienced to work with RestAPIs and integrating with databases.
+There is one issue - as my previous boss said, "I take a long time to prepare, but I work quickly."
+
+Prior to becoming a developer, I was a geology scientist and have experience working in the USA. So I am throuogh in solving tasks as scientist
+
 ### 💻 Languages and tools:
 
 <p>
@@ -35,12 +44,8 @@ I am a frontend developer with over 3 years of experience. In my free time, I le
 
 ### You can find me there:
 
-[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
-[<img alt="Codewars" width="405px" src="https://www.codewars.com/users/DaniilMinin/badges/small"/>][codewars]
 
-[gmail]: mailto:daniilminin1990@yandex.ru
 [linkedin]: https://www.linkedin.com/in/daniil-minin-5b738b2b3/
-[telegram]: https://t.me/Daniil_minin1990
-[codewars]: https://www.codewars.com/users/DaniilMinin
+[telegram]: https://t.me/daniil_minin_a
