@@ -2,15 +2,15 @@
  
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320">
 
-I am constantly improving my skills, even in my sleep.
+I am a frontend developer with over 3 years of experience. 
 
-When encountering new technologies, I strive to break them down into the smallest details to understand how they work from the inside.
+In my free time, I lead a small community where we discuss development challenges and share insights. 
 
-I solve complex problems, getting to the root of the issue. Also confident specialist in React, TypeScript, and JavaScript.
-Experienced to work with RestAPIs and integrating with databases.
-There is one issue - as my previous boss said, "I take a long time to prepare, but I work quickly."
+I adapt quickly to new tech stacks and prioritize code quality, documentation, and application performance. 
 
-Prior to becoming a developer, I was a geology scientist and have experience working in the USA. So I am throuogh in solving tasks as scientist
+I stay up-to-date with industry trends and technologies by analyzing modern developments, following tech bloggers, and reading IT articles. 
+
+Focused on writing clean code and improving application performance.
 
 ### 💻 Languages and tools:
 
