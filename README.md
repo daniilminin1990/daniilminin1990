@@ -1,6 +1,6 @@
-### Hello, I'm Daniil Minin 👋
+### Daniil Minin
  
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320">
+<!-- <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlndzZvam1kZzJsaDVsazhza3JobTdwY3ViZXJyejN5anNhcW45ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GOSYhIC5AF1le/giphy.gif" width="320"> -->
 
 Experienced frontend developer, specializing in creating maintainable and scalable web applications. I focus on code quality, application performance, and high-quality documentation.
 I have experience working with a modern tech stack: React, Next.js, Redux, RTK, RTK Query, GraphQL, Apollo, WebSocket, JavaScript, TypeScript, HTML, CSS, Sass. My responsibilities include developing new features, improving existing systems, refactoring, and optimization. I strive to create user-friendly interfaces that meet business goals and user needs.
@@ -36,7 +36,7 @@ I efficiently manage my time, maintain clear communication within the team, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=prussian" width="420" alt=""/>
 </div>
 
-### You can find me there:
+### Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
