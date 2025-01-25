@@ -32,8 +32,8 @@ I efficiently manage my time, maintain clear communication within the team, and 
 ### 💹 Stats
 <div id="stat" align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilminin1990&theme=prussian" width="842" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=prussian" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=prussian" width="420" alt=""/>
+  <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilminin1990&theme=prussian" width="420" alt=""/> -->
+  <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilminin1990&theme=prussian" width="420" alt=""/> -->
 </div>
 
 ### Contacts:
